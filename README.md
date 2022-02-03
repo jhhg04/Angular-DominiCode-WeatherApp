@@ -1,4 +1,6 @@
-# Boilerplate
+openweathermap
+![1](https://user-images.githubusercontent.com/52834318/152264977-e2a49a5a-ca87-4b81-9541-6cb10780ab75.png)
+# WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 
